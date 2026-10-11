@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/BD/" />
+  <Folder Name="/Frontend/" />
+  <Project Path="Backend.csproj" />
+</Solution>
